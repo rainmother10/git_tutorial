@@ -70,8 +70,8 @@ Merge là quá trình kết hợp các thay đổi từ một nhánh vào nhánh
 ```sh
 lacoski@lacoski-PC:~$ cat ~/.gitconfig
 [user]
-	email = thanh@gmail.com
-	name = thanhba
+	email = nguyentuanct411@gmail.com
+	name = rainmother10
 [credential]
 	helper = cache
 
